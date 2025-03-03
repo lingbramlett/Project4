@@ -15,3 +15,5 @@
     * even if neural network is pron to overfitting on smaller dataset it has well done on identifying heart disease.with recall value of 85%.
     * we have checked the performance of the metrics(recall value ) on both test and train data.there is no sign of overfitting.the recall value on test and train data was not significantly different.
 * we have used chart for visualize the recall value of the classification models.
+
+  
